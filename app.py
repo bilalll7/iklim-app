@@ -10,7 +10,6 @@ st.set_page_config(
     layout="wide"
 )
 
-plt.tight_layout()
 
 st.title("Dashboard Analisis Perubahan Iklim")
 st.markdown(
